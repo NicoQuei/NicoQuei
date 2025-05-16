@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,discord,html,css,java,godot" />
+<img src="https://skillicons.dev/icons?i=js,html,css,java,godot" />
 
 </div>
 
