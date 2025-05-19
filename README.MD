@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
 
-<h3 align="center" style="color: white;">Desenvolvedor apaixonado por desenvolvimento Web.</h3>
+### <div align="center">Desenvolvedor apaixonado por desenvolvimento Web.</div>
 
 </div>
 
@@ -32,13 +32,16 @@
 
 <div align="center">
 
-<a href="https://github.com/NicoQuei/Portifolio" target="_blank" style="text-align:center;">
+<a href="https://github.com/NicoQuei/Portifolio" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Portifolio&theme=github_dark&hide_border=true" />
-  <br />
 </a>
 
 <a href="https://github.com/NicoQuei/BoxFit_Selector" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=BoxFit_Selector&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/NicoQuei/Numero_Secreto" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Numero_Secreto&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
