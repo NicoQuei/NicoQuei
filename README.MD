@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;Em+constante+aprendizado+🚀;Explorando+o+mundo+da+programa%C3%A7%C3%A3o..." />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoQuei&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 ---
 
