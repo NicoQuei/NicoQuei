@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoQuei&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoQuei&theme=darkhub&no-bg=true&no-frame=true" />
 </p>
 
 ---
