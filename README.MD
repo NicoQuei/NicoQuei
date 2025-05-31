@@ -39,16 +39,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Numero_Secreto&theme=github_dark&hide_border=true" alt="Numero_Secreto" />
   </a>
 
-  <a href="https://github.com/NicoQuei/ApostaBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=ApostaBot&theme=github_dark&hide_border=true" alt="ApostaBot" />
-  </a>
-
-  <a href="https://github.com/NicoQuei/Estacionamento-Node">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Estacionamento-Node&theme=github_dark&hide_border=true" alt="Estacionamento-Node" />
-  </a>
-
-  <a href="https://github.com/NicoQuei/NaviCampus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=NaviCampus&theme=github_dark&hide_border=true" alt="NaviCampus" />
+  <a href="https://github.com/NicoQuei/Estacionamento">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Estacionamento&theme=github_dark&hide_border=true" alt="Estacionamento" />
   </a>
 
 </p>
@@ -58,8 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoQuei&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoQuei&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoQuei&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
