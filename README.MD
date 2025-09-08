@@ -53,6 +53,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoQuei&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+
+
 ## 📫 Onde me encontrar
 
 <p align="center">
