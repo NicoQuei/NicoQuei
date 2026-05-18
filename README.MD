@@ -35,17 +35,24 @@
 
 ## 🧠 Sobre mim
 
-- 🚀 Desenvolvedor Full Stack focado em **React**, **Next.js** e **Node.js**
-- 🌱 Estudando **backend avançado, APIs RESTful e integração com bancos de dados**
-- 🛠️ Construindo projetos SaaS e plataformas educacionais
-- ⚡ Curiosidade: adoro transformar qualquer ideia em produto funcional do zero
+- 🤖 Focado em **IA aplicada ao Frontend** — agentes autônomos, Generative UI e LLMs
+- ⚡ Construindo interfaces que pensam: integrando **Gemini** e modelos de linguagem com React e Next.js
+- 🏗️ Explorando **Arquitetura + IA** — unindo Vite/Next.js com o poder de raciocínio de LLMs
+- 🔁 Automatizando processos repetitivos dentro de aplicações web com agentes inteligentes
+- 🛠️ Desenvolvendo projetos SaaS e plataformas educacionais do zero
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,html,css,tailwind,java,godot,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,js,ts,html,css,tailwind,java,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs%20%2F%20AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20UI-00C4A7?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ---
