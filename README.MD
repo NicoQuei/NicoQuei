@@ -57,25 +57,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/NicoQuei/Portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Portifolio&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/NicoQuei/BoxFit_Selector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=BoxFit_Selector&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/NicoQuei/Numero_Secreto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Numero_Secreto&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/NicoQuei/Estacionamento">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoQuei&repo=Estacionamento&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
